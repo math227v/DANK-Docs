@@ -56,10 +56,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'DANK',
+        title: null,
         logo: {
-          alt: 'Logo',
-          src: 'img/logo.svg',
+          alt: 'DANK',
+          src: 'img/dank-black.png',
+          srcDark: 'img/dank-white.png'
         },
         items: [
           {
@@ -89,6 +90,13 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      announcementBar: {
+        id: 'rebuilding',
+        content: 'Denne side er under ombygning - Be Aware',
+        backgroundColor: '#FF7700',
+        textColor: '#FFF',
+        isCloseable: true,
+      }
     }),
 };
 

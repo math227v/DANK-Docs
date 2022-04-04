@@ -1,12 +1,14 @@
 ---
 title: Das Boot
+pagination_next: null
+pagination_prev: null
 ---
 
 [![Das Boot](/img/digital/boot_LRes.jpg)](/img/digital/boot_HRes.jpg)
 
 *Plakaten er smukt udsmykket af Rundkantens flåde.*
 
-I sommeren 2020 blev en tragedie kun lige undgået på Ringkøbing Fjord, da SS. Camo sank under en ekspedition til en øde ø. Denne plakat er baseret på disse hændelser.
+I sommeren 2021 blev en tragedie kun lige undgået på Ringkøbing Fjord, da SS. Camo sank under en ekspedition til en øde ø. Denne plakat er baseret på disse hændelser.
 
 ---
 

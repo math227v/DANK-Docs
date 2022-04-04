@@ -1,5 +1,7 @@
 ---
 title: Rundkanten og den hellige skraldespand
+pagination_next: null
+pagination_prev: null
 ---
 
 [![Rundkanten og den hellige skraldespand](/img/digital/mopy_LRes.jpg)](/img/digital/mopy_HRes.jpg)

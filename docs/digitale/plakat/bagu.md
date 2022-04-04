@@ -1,5 +1,7 @@
 ---
 title: Baguette
+pagination_next: null
+pagination_prev: null
 ---
 
 [![Baguette](/img/digital/bagu_LRes.jpg)](/img/digital/bagu_HRes.jpg)

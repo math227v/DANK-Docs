@@ -1,5 +1,7 @@
 ---
 title: No fucks to give
+pagination_next: null
+pagination_prev: null
 ---
 
 [![No fucks to give](/img/digital/nftg_LRes.jpg)](/img/digital/nftg_HRes.jpg)

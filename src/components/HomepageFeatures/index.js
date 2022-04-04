@@ -4,32 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Kunst i verdensklasse',
     // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Med en stadig voksende kollektion af kunst i verdensklasse,
+        tilbyder vi en topmoderne udstilling.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Plads til eftertanke',
     // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Hos os er du næsten garanteret noget at tænke over - hvad end det er et mærkeligt billede, et overvæld af farver, eller bare en grammatisk fejl.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Har du en skjult kunstner gemt i maven?',
+    // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Ønsker du lige præcis DIT mesterværk udstillet her? Kontakt Museumsdirektør Mathias M. Lauridsen, og hør mere.
       </>
     ),
   },

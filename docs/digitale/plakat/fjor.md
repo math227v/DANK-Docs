@@ -1,5 +1,7 @@
 ---
 title: Fjorden
+pagination_next: null
+pagination_prev: null
 ---
 
 [![Fjorden](/img/digital/fjor_LRes.jpg)](/img/digital/fjor_HRes.jpg)
