@@ -69,6 +69,11 @@ const config = {
             position: 'left',
             label: 'Galleri',
           },
+          {
+            to: 'blog',
+            label: 'Nyheder',
+            position: 'left'
+          }
         ],
       },
       footer: {
@@ -81,6 +86,10 @@ const config = {
                 label: 'Galleri',
                 to: '/docs/intro',
               },
+              {
+                label: 'Nyheder',
+                to: 'blog'
+              }
             ],
           },
         ],
