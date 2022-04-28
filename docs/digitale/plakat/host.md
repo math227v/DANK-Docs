@@ -6,7 +6,7 @@ pagination_prev: null
 
 [![Hot Stuff](/img/digital/host_LRes.jpg)](/img/digital/host_HRes.jpg)
 
-*Bemærk hvor stor ynde samtlige personer udtrykker*
+*Bemærk hvor stor ynde samtlige personer udtrykker.*
 
 Værket er en hyldest til hele Rundkanten. Billedet viser hvert medlem af Rundkanten, med fokus på deres bedste side. I baggrunden ses skolen - en reference til at det var der de gik.
 

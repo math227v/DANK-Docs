@@ -6,7 +6,7 @@ pagination_prev: null
 
 [![Jaws](/img/digital/jaws_LRes.jpg)](/img/digital/jaws_HRes.jpg)
 
-*Ingen chips blev skadet under optagelserne*
+*Ingen chips blev skadet under optagelserne.*
 
 Forestil dig Jaws - men fransk. Det er baggrunden for dette absolutte mesterværk af en plakat, som nu er et symbol for en hel generation af franske-kartoffel og franske-vin elskere.
 
