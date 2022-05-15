@@ -6,7 +6,7 @@ pagination_prev: null
 
 [![RugPoul's Træk-ræs](/img/digital/rupo_LRes.jpg)](/img/digital/rupo_HRes.jpg)
 
-*WARNING! Show budget does not exceed 23¥*
+*WARNING! Show budget does not exceed 23¥.*
 
 Ynde. Femininitet. Kærlighed til egen krop.
 
@@ -14,6 +14,6 @@ Der findes et utal af måder at udtrykke sig på - åbenbart også på denne må
 
 ---
 
-Plakaten er en parodi på denne fan-plakat for filmen *Hot Fuzz*.
+Plakaten er en parodi på denne fan-plakat for reality-tv serien *RuPaul's Drag Race*.
 
 [![Reference](/img/digital/rupo_Ref.jpg)](/img/digital/rupo_Ref.jpg)
