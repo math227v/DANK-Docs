@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`Kunst i verdensklasse`}
-      description="Description will go into a meta tag in <head />">
+      description="Oplev noget af verdens bedste kunst - alt sammen bag din egen skærm.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

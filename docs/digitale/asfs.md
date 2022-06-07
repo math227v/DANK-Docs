@@ -6,7 +6,7 @@ pagination_prev: null
 
 [![A sky full of fools](/img/other-art/asfs_LRes.jpg)](/img/other-art/asfs_HRes.jpg)
 
-*Dette værk er produceret i samarbejde med hallucinationer*
+*Dette værk er produceret i samarbejde med hallucinationer.*
 
 En blanding af kedsomhed, træthed, og en lille smule koffein fra en Cola, har tilsammen skabt dette syre-trip. 
 
