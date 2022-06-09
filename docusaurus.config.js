@@ -73,6 +73,11 @@ const config = {
             to: 'blog',
             label: 'Nyheder',
             position: 'left'
+          },
+          {
+            to: 'pr',
+            label: 'PR',
+            position: 'left'
           }
         ],
       },
