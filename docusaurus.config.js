@@ -56,7 +56,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: null,
         logo: {
           alt: 'DANK',
           src: 'img/dank-black.png',
@@ -72,11 +71,6 @@ const config = {
           {
             to: 'blog',
             label: 'Nyheder',
-            position: 'left'
-          },
-          {
-            to: 'pr',
-            label: 'PR',
             position: 'left'
           }
         ],
@@ -97,6 +91,15 @@ const config = {
               }
             ],
           },
+          {
+            title: 'Resurser',
+            items: [
+              {
+                label: 'Public Relations',
+                to: '/pr'
+              }
+            ]
+          }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Mathias M. Lauridsen`,
       },
