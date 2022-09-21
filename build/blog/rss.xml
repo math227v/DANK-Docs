@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>DANK Blog</title>
-        <link>https://dank.mathiaslauridsen.dk/blog</link>
+        <link>https://dank.mathiaslauridsen.dk/dank-deploy/blog</link>
         <description>DANK Blog</description>
         <lastBuildDate>Sun, 05 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,27 +10,27 @@
         <language>da</language>
         <item>
             <title><![CDATA[PRESSEMEDDELELSE: Salg af aktiver i 'Kongeådalens Efterskoles Jubilæum']]></title>
-            <link>https://dank.mathiaslauridsen.dk/blog/2022/06/05/</link>
+            <link>https://dank.mathiaslauridsen.dk/dank-deploy/blog/2022/06/05/</link>
             <guid>/2022/06/05/</guid>
             <pubDate>Sun, 05 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Horsens, 05. juni 2022]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="horsens-05-juni-2022">Horsens, 05. juni 2022<a class="hash-link" href="#horsens-05-juni-2022" title="Direkte link til overskrift">​</a></h2><p><img loading="lazy" alt="Umiddelbart efter salget gik igennem" src="/assets/images/2022-06-05.01-0420f10b1fb96db350580952571055db.jpg" width="6000" height="4000" class="img_E7b_">
-<em>Fra venstre: Tommy Wulff Rasmussen, Museumsdirektør Mathias M. Lauridsen, Lukas Even Holm-Sørensen, &amp; Anton Sølyst Paulsen.</em></p><p>Med virkning fra d. 05. juni, 2022, vil tre købere overtage samlet 50% af aktiverne i maleriet <em>Kongeådalens Efterskoles Jubilæum</em>. De tre købere er alle velkendte ansigter blandt museets kendere, da alle tre har op til flere prominente roller i udstillingen. Anton Sølyst Paulsen har købt 12,50%, ligeledes har Lukas Even Holm-Sørensen, og Tommy Wulff Rasmussen har købt 25,00%.</p><blockquote><p>Det her er noget vi har arbejdet på længe, og jeg er bare så glad for at salget endeligt er gået igennem. Det er en stor dag, både for museet, men det er også en stor personlig sejr.</p></blockquote><p><em>-<!-- --> Mathias M. Lauridsen, Museumsdirektør</em></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="ny-kunst">Ny kunst<a class="hash-link" href="#ny-kunst" title="Direkte link til overskrift">​</a></h2><p>Maleriet er museets nyeste satsning. Maleriet er indkøbt for kr. 600,00 på auktion i Dover, men det anslås allerede nu at værdien er oversteget kr. 800,00.</p><p>Du kan læse mere om maleriet - og al den anden kunst - <a href="/docs/fysiske/ke25">her</a></p><hr><p>Kontaktperson: Mathias M. Lauridsen, Museumsdirektør, Dover Art 'N' Knowledge, Telefon: +45 42 73 73 92.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="horsens-05-juni-2022">Horsens, 05. juni 2022<a class="hash-link" href="#horsens-05-juni-2022" title="Direkte link til overskrift">​</a></h2><p><img loading="lazy" alt="Umiddelbart efter salget gik igennem" src="/dank-deploy/assets/images/2022-06-05.01-0420f10b1fb96db350580952571055db.jpg" width="6000" height="4000" class="img_E7b_">
+<em>Fra venstre: Tommy Wulff Rasmussen, Museumsdirektør Mathias M. Lauridsen, Lukas Even Holm-Sørensen, &amp; Anton Sølyst Paulsen.</em></p><p>Med virkning fra d. 05. juni, 2022, vil tre købere overtage samlet 50% af aktiverne i maleriet <em>Kongeådalens Efterskoles Jubilæum</em>. De tre købere er alle velkendte ansigter blandt museets kendere, da alle tre har op til flere prominente roller i udstillingen. Anton Sølyst Paulsen har købt 12,50%, ligeledes har Lukas Even Holm-Sørensen, og Tommy Wulff Rasmussen har købt 25,00%.</p><blockquote><p>Det her er noget vi har arbejdet på længe, og jeg er bare så glad for at salget endeligt er gået igennem. Det er en stor dag, både for museet, men det er også en stor personlig sejr.</p></blockquote><p><em>-<!-- --> Mathias M. Lauridsen, Museumsdirektør</em></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="ny-kunst">Ny kunst<a class="hash-link" href="#ny-kunst" title="Direkte link til overskrift">​</a></h2><p>Maleriet er museets nyeste satsning. Maleriet er indkøbt for kr. 600,00 på auktion i Dover, men det anslås allerede nu at værdien er oversteget kr. 800,00.</p><p>Du kan læse mere om maleriet - og al den anden kunst - <a href="/dank-deploy/docs/fysiske/ke25">her</a></p><hr><p>Kontaktperson: Mathias M. Lauridsen, Museumsdirektør, Dover Art 'N' Knowledge, Telefon: +45 42 73 73 92.</p>]]></content:encoded>
             <author>math227v@gmail.com (Dover Art 'N' Knowledge)</author>
         </item>
         <item>
             <title><![CDATA[DANK's 1 års fødselsdag]]></title>
-            <link>https://dank.mathiaslauridsen.dk/blog/2022/03/17/</link>
+            <link>https://dank.mathiaslauridsen.dk/dank-deploy/blog/2022/03/17/</link>
             <guid>/2022/03/17/</guid>
             <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[DANK bliver grundlagt i Dover - Nyt kunstmuseum]]></description>
-            <content:encoded><![CDATA[<p>I dag blev <em>Dover Art 'N' Knowledge</em> grundlagt for 1 år siden.</p><p>Tiden er fløjet. Men tiden er heller ikke gået spildt til. Siden vi slog dørene op i marts, sidste år, er der sket meget. Museet er flyttet, og kunst-udvalget er blevet forstørret gevaldigt. Vi har oplevet tyveri, vi blev snydt, og vi blev løjet for. Men vi oplevede også hjælp, og vi skabte et fællesskab - Mona skulle findes, Mona skulle hjem.</p><p>I det forgange år, er mange nye værker kommet til. Senest er <em><a href="/docs/fysiske/napo">Napoleona Bonaparte slays</a></em> blevet indkøbt, og det markere museets andet fysiske værk. Dog er den digitale kollektion også kommet til, med mange værker fra husets kunstnere. </p><p>Alt i alt, er der sket meget det sidste år - og der kommer til at ske meget fremadrettet. Store planer er undervejs, og i vil snart hører mere.</p><p>Mathias M. Lauridsen,
+            <content:encoded><![CDATA[<p>I dag blev <em>Dover Art 'N' Knowledge</em> grundlagt for 1 år siden.</p><p>Tiden er fløjet. Men tiden er heller ikke gået spildt til. Siden vi slog dørene op i marts, sidste år, er der sket meget. Museet er flyttet, og kunst-udvalget er blevet forstørret gevaldigt. Vi har oplevet tyveri, vi blev snydt, og vi blev løjet for. Men vi oplevede også hjælp, og vi skabte et fællesskab - Mona skulle findes, Mona skulle hjem.</p><p>I det forgange år, er mange nye værker kommet til. Senest er <em><a href="/dank-deploy/docs/fysiske/napo">Napoleona Bonaparte slays</a></em> blevet indkøbt, og det markere museets andet fysiske værk. Dog er den digitale kollektion også kommet til, med mange værker fra husets kunstnere. </p><p>Alt i alt, er der sket meget det sidste år - og der kommer til at ske meget fremadrettet. Store planer er undervejs, og i vil snart hører mere.</p><p>Mathias M. Lauridsen,
 Museumsdirektør, DANK</p>]]></content:encoded>
             <author>math227v@gmail.com (Mathias M. Lauridsen)</author>
         </item>
         <item>
             <title><![CDATA[DANK Flytter]]></title>
-            <link>https://dank.mathiaslauridsen.dk/blog/2021/06/26/</link>
+            <link>https://dank.mathiaslauridsen.dk/dank-deploy/blog/2021/06/26/</link>
             <guid>/2021/06/26/</guid>
             <pubDate>Sat, 26 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[DANK's offentlige udstilling lukker, mens samlingen bliver flyttet til Aulum]]></description>
@@ -39,7 +39,7 @@ Museumsdirektør, DANK</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[PRESSEMEDDELELSE: Mona Lisa er i sikkerhed]]></title>
-            <link>https://dank.mathiaslauridsen.dk/blog/2021/06/06/</link>
+            <link>https://dank.mathiaslauridsen.dk/dank-deploy/blog/2021/06/06/</link>
             <guid>/2021/06/06/</guid>
             <pubDate>Sun, 06 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[DANK bliver grundlagt i Dover - Nyt kunstmuseum]]></description>
@@ -48,7 +48,7 @@ Museumsdirektør, DANK</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[PRESSEMEDDELELSE: Mona Lisa er forsvundet]]></title>
-            <link>https://dank.mathiaslauridsen.dk/blog/2021/05/20/</link>
+            <link>https://dank.mathiaslauridsen.dk/dank-deploy/blog/2021/05/20/</link>
             <guid>/2021/05/20/</guid>
             <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[DANK ved i øjeblikket ikke hvor Mona Lisa befinder sig]]></description>
@@ -57,11 +57,11 @@ Museumsdirektør, DANK</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Grundlæggelse]]></title>
-            <link>https://dank.mathiaslauridsen.dk/blog/2021/03/17/</link>
+            <link>https://dank.mathiaslauridsen.dk/dank-deploy/blog/2021/03/17/</link>
             <guid>/2021/03/17/</guid>
             <pubDate>Wed, 17 Mar 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[DANK bliver grundlagt i Dover - Nyt kunstmuseum]]></description>
-            <content:encoded><![CDATA[<p>Fra dags dato er der nu ny mulighed for at opleve kunst i Dover - hos Dover Art 'N' Knowledge!</p><p>Museet huser på nuværende tidspunkt den verdensberømte <a href="/docs/fysiske/mona">Mona Lisa</a>.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Fra dags dato er der nu ny mulighed for at opleve kunst i Dover - hos Dover Art 'N' Knowledge!</p><p>Museet huser på nuværende tidspunkt den verdensberømte <a href="/dank-deploy/docs/fysiske/mona">Mona Lisa</a>.</p>]]></content:encoded>
             <author>math227v@gmail.com (Mathias M. Lauridsen)</author>
         </item>
     </channel>

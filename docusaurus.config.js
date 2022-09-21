@@ -9,7 +9,7 @@ const config = {
   title: 'DANK',
   tagline: 'Dover Art \'N\' Knowledge',
   url: 'https://dank.mathiaslauridsen.dk',
-  baseUrl: '/',
+  baseUrl: '/dank-deploy/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
