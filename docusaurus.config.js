@@ -13,8 +13,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'DANK', // Usually your GitHub org/user name.
-  projectName: 'DANK Online Museum', // Usually your repo name.
+  organizationName: 'math227v', // Usually your GitHub org/user name.
+  projectName: 'dank-deploy', // Usually your repo name.
+  deploymentBranch: 'master',
 
   i18n: {
     defaultLocale: 'da',
